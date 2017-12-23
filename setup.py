@@ -8,7 +8,7 @@ setup(name='pyvidia',
       author_email='jackson_huang@live.com',
       url='https://github.com/jaxony/pyvidia',
       license='MIT',
-      packages=['pyvidia']
+      packages=['pyvidia'],
       keywords=[
           'Utilities',
           'Deep Learning',
